@@ -9,7 +9,7 @@ Contrarian Opportunity: Average PnL is often highest during periods of Extreme F
 Volume vs. Profitability: While trading volume peaks during Greed (indicating FOMO), profitability tends to be lower compared to fearful markets.
 Top Trader Behavior: The most profitable accounts consistently execute trades during negative sentiment phases.
 
-##📊 Visualizations & Analysis
+## 📊 Visualizations & Analysis
 1. Average Trader PnL by Sentiment
 This chart shows which market sentiment yields the highest average profit per trade.Average PnL by Sentiment
 
@@ -25,14 +25,14 @@ This chart shows where traders are most active.Volume by Sentiment
 
 Analysis: Total volume is highest during Greed. This indicates that retail traders tend to chase rallies, often entering late and missing the optimal entry points found in Fear markets.
 
-##💡 Strategic Recommendations
+## 💡 Strategic Recommendations
 Based on the analysis, here are three actionable strategies for PrimeTrade.ai:
 
 Sentiment-Based Alerts: Implement a "High Opportunity" alert when the Fear & Greed Index drops below 25 (Extreme Fear), prompting users to consider long positions.
 Risk Mitigation: Automatically reduce allowable leverage for users trading during "Extreme Greed" to protect capital from potential corrections.
 Smart Leaderboards: Highlight traders who profit consistently during Fear periods in the Copy Trading section, as they likely possess superior risk management skills.
 
-##🛠️ Tech Stack & Code
+## 🛠️ Tech Stack & Code
 Python: Primary language for data analysis.
 Pandas: Used for data cleaning, merging, and manipulation.
 Matplotlib / Seaborn: Used for data visualization.
